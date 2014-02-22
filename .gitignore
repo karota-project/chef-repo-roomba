@@ -1,5 +1,5 @@
 .vagrant
-Berksfile.lock
+#Berksfile.lock
 *~
 *#
 .#*
@@ -9,7 +9,7 @@ Berksfile.lock
 /cookbooks
 
 # Bundler
-Gemfile.lock
+#Gemfile.lock
 bin/*
 .bundle/*
-/cookbooks/
+/vendor
